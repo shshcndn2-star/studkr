@@ -44,15 +44,15 @@ export default function ContentSummarySection() {
 
   return (
     <SectionWrapper id="summarizer">
-      <Card className="max-w-4xl mx-auto">
-        <CardHeader>
-          <CardTitle className="font-headline text-2xl text-primary">أداة تلخيص المحتوى بالذكاء الاصطناعي</CardTitle>
-          <CardDescription>
+       <div className="text-center mb-12">
+        <h2 className="text-3xl md:text-4xl font-headline text-primary">أداة تلخيص المحتوى</h2>
+        <p className="text-muted-foreground mt-2">
             ألصق محتوى مراجعة أو مقالة عن GT3 RS هنا للحصول على ملخص سريع.
-          </CardDescription>
-        </CardHeader>
+        </p>
+      </div>
+      <Card className="max-w-4xl mx-auto">
         <form onSubmit={handleSubmit}>
-          <CardContent>
+          <CardContent className='pt-6'>
             <Textarea
               placeholder="أدخل المحتوى هنا..."
               className="min-h-[150px]"
