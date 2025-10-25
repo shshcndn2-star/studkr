@@ -21,7 +21,7 @@ export function MainSidebar() {
       <SidebarMenu>
         {navLinks.map((link) => (
           <SidebarMenuItem key={link.href}>
-            <Link href={link.href} passHref>
+            <Link href={link.href} legacyBehavior passHref>
               <SidebarMenuButton
                 as="a"
                 isActive={checkActivePath(link.href)}

@@ -10,17 +10,17 @@ const galleryImages = PlaceHolderImages.filter(p => p.id.startsWith('gallery-'))
 
 export default function GallerySection() {
   return (
-    <SectionWrapper id="gallery">
+    <SectionWrapper id="gallery" className="animate-fade-in-up">
       <div className="text-center mb-12 animate-fade-in-down">
         <h2 className="text-3xl md:text-4xl font-headline text-primary">معرض أيقونات GT3 RS</h2>
         <p className="text-muted-foreground mt-2">استكشف جمال وتنوع سيارة بورش 911 GT3 RS عبر الأجيال والألوان المختلفة.</p>
       </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 md:gap-6">
         {galleryImages.map((image, index) => (
-          <Link href={`/gallery/${image.id}`} key={image.id}>
-            <a className="block group animate-fade-in-up" style={{animationDelay: `${index * 50}ms`}}>
+          <Link href={`/gallery/${image.id}`} key={image.id} legacyBehavior>
+            <a className="block group" style={{animationDelay: `${index * 50}ms`}}>
               <Card 
-                className="overflow-hidden h-full"
+                className="overflow-hidden h-full border-2 border-transparent hover:border-primary transition-all duration-300 hover:shadow-2xl"
               >
                 <CardContent className="p-0 aspect-[4/3] relative">
                   <Image

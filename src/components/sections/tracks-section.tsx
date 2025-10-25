@@ -39,7 +39,7 @@ const nurburgringRaces = {
 
 export default function TracksSection() {
   return (
-    <SectionWrapper id="tracks">
+    <SectionWrapper id="tracks" className="animate-fade-in-up">
       <div className="text-center mb-12 animate-fade-in-down">
         <h2 className="text-3xl md:text-4xl font-headline text-primary">أسطورة الحلبات</h2>
       </div>

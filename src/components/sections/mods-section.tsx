@@ -17,7 +17,7 @@ const commonMods = [
 export default function ModsSection() {
   
   return (
-    <SectionWrapper id="mods" className="bg-card">
+    <SectionWrapper id="mods" className="bg-card animate-fade-in-up">
       <div className="grid md:grid-cols-2 gap-12 items-start">
         <div className="animate-fade-in-up">
           <h2 className="text-3xl md:text-4xl font-headline text-primary mb-4">التعديلات والتخصيص</h2>

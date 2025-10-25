@@ -29,11 +29,11 @@ const historyData = [
 
 export default function HistorySection() {
   return (
-    <SectionWrapper id="history">
+    <SectionWrapper id="history" className="animate-fade-in-up">
       <div className="text-center mb-12 animate-fade-in-down">
         <h2 className="text-3xl md:text-4xl font-headline text-primary">تاريخ GT3 RS عبر الأجيال</h2>
       </div>
-      <Tabs defaultValue="992" className="w-full max-w-4xl mx-auto animate-fade-in-up" dir="rtl">
+      <Tabs defaultValue="992" className="w-full max-w-4xl mx-auto" dir="rtl">
         <TabsList className="grid w-full grid-cols-2 md:grid-cols-4 h-auto">
           {historyData.map((tab) => (
             <TabsTrigger key={tab.value} value={tab.value} className="text-xs md:text-sm">{tab.label}</TabsTrigger>

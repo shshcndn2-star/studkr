@@ -26,9 +26,9 @@ const specsList = [
 
 export default function SpecsSection() {
   return (
-    <SectionWrapper id="specs" className="bg-card">
-      <Card className="border-none shadow-none bg-transparent animate-fade-in">
-        <CardHeader className="text-center">
+    <SectionWrapper id="specs" className="bg-card animate-fade-in-up">
+      <Card className="border-none shadow-none bg-transparent">
+        <CardHeader className="text-center animate-fade-in-down">
           <CardTitle className="text-3xl md:text-4xl font-headline text-primary">
             مواصفات النموذج الأحدث (992 GT3 RS)
           </CardTitle>

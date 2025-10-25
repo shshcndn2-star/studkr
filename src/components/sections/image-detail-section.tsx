@@ -24,7 +24,7 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
   ];
 
   return (
-    <SectionWrapper id="image-detail">
+    <SectionWrapper id="image-detail" className="animate-fade-in-up">
       <div className="max-w-5xl mx-auto">
         <div className="mb-8">
             <Button asChild variant="ghost">
@@ -47,7 +47,7 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
                 priority
               />
             </div>
-            <div className="flex flex-col p-6">
+            <div className="flex flex-col p-6 bg-card">
               <CardHeader>
                 <CardTitle className="text-3xl font-headline text-primary">{image.model}</CardTitle>
                 <CardDescription>{image.description['ar']}</CardDescription>
@@ -55,9 +55,9 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
               <CardContent className="flex-grow">
                 <dl className="space-y-4">
                   {details.map((detail, index) => (
-                     <div key={index}>
+                     <div key={index} className="border-b pb-2">
                         <dt className="text-sm font-semibold text-muted-foreground">{detail.label}</dt>
-                        <dd className="text-lg text-foreground">{detail.value}</dd>
+                        <dd className="text-lg text-foreground font-medium">{detail.value}</dd>
                     </div>
                   ))}
                 </dl>
