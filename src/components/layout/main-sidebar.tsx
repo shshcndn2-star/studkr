@@ -21,16 +21,16 @@ export function MainSidebar() {
       <SidebarMenu>
         {navLinks.map((link) => (
           <SidebarMenuItem key={link.href}>
-            <Link href={link.href} legacyBehavior passHref>
-              <SidebarMenuButton
-                as="a"
-                isActive={checkActivePath(link.href)}
-                onClick={() => setOpenMobile(false)}
-                tooltip={link.label}
-              >
+            <SidebarMenuButton
+              asChild
+              isActive={checkActivePath(link.href)}
+              onClick={() => setOpenMobile(false)}
+              tooltip={link.label}
+            >
+              <Link href={link.href}>
                 <span>{link.label}</span>
-              </SidebarMenuButton>
-            </Link>
+              </Link>
+            </SidebarMenuButton>
           </SidebarMenuItem>
         ))}
       </SidebarMenu>
