@@ -10,7 +10,34 @@
       "imageHint": "porsche race track",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2023
+      "year": 2023,
+      "detailedDescription": {
+        "ar": "الجيل الأحدث 992 من GT3 RS يمثل قمة الهندسة الهوائية، مع جناح خلفي ضخم ونظام DRS مستوحى من الفورمولا 1. يتميز المحرك بسعة 4.0 لتر وقوة 518 حصان، مما يجعله وحشًا على الحلبة وسيارة تخطف الأنظار على الطرقات.",
+        "en": "The latest 992 generation of the GT3 RS represents the pinnacle of aerodynamic engineering, with a massive rear wing and a Formula 1-inspired DRS system. The 4.0-liter engine produces 518 horsepower, making it a beast on the track and a head-turner on the road."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "518 HP"
+        },
+        {
+          "label": {
+            "ar": "المحرك",
+            "en": "Engine"
+          },
+          "value": "4.0L Flat-6"
+        },
+        {
+          "label": {
+            "ar": "العزم",
+            "en": "Torque"
+          },
+          "value": "465 Nm"
+        }
+      ]
     },
     {
       "id": "tracks-rear",
@@ -22,7 +49,27 @@
       "imageHint": "porsche rear wing",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2022
+      "year": 2022,
+      "detailedDescription": {
+        "ar": "يُظهر المنظر الخلفي لجيل 992 GT3 RS الجناح الخلفي الضخم ذي التصميم 'swan-neck' الذي يوفر قوة سفلية هائلة، وهو عنصر أساسي في أدائها الاستثنائي على الحلبات.",
+        "en": "The rear view of the 992 GT3 RS showcases the massive swan-neck rear wing that provides immense downforce, a key element of its exceptional track performance."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "ميزة",
+            "en": "Feature"
+          },
+          "value": "Active Aerodynamics"
+        },
+        {
+          "label": {
+            "ar": "المادة",
+            "en": "Material"
+          },
+          "value": "Carbon Fiber"
+        }
+      ]
     },
     {
       "id": "tracks-front",
@@ -34,7 +81,27 @@
       "imageHint": "porsche front",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2023
+      "year": 2023,
+      "detailedDescription": {
+        "ar": "الواجهة الأماميةดุร้าย مع فتحات تهوية كبيرة وغطاء محرك من ألياف الكربون، مصممة لتوجيه الهواء بكفاءة لتبريد المكابح وتحسين القوة السفلية.",
+        "en": "The aggressive front fascia with large air intakes and a carbon fiber hood is designed to efficiently channel air for brake cooling and improved downforce."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "غطاء المحرك",
+            "en": "Hood"
+          },
+          "value": "Carbon Fiber"
+        },
+        {
+          "label": {
+            "ar": "التبريد",
+            "en": "Cooling"
+          },
+          "value": "Central Radiator"
+        }
+      ]
     },
     {
       "id": "tracks-side",
@@ -46,7 +113,27 @@
       "imageHint": "porsche side profile",
       "generation": "991",
       "model": "911 GT3 RS",
-      "year": 2018
+      "year": 2018,
+      "detailedDescription": {
+        "ar": "الملف الجانبي لجيل 991 GT3 RS يكشف عن فتحات الهواء المميزة على الرفارف الأمامية والعجلات ذات القفل المركزي، مما يؤكد على أصولها في عالم السباقات.",
+        "en": "The side profile of the 991 GT3 RS reveals its distinctive fender vents and center-lock wheels, emphasizing its racing pedigree."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "العجلات",
+            "en": "Wheels"
+          },
+          "value": "Center-Lock"
+        },
+        {
+          "label": {
+            "ar": "اللون",
+            "en": "Color"
+          },
+          "value": "Lizard Green"
+        }
+      ]
     },
     {
       "id": "tracks-interior",
@@ -58,7 +145,27 @@
       "imageHint": "porsche cockpit",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2023
+      "year": 2023,
+      "detailedDescription": {
+        "ar": "تتميز مقصورة القيادة بمقاعد رياضية من ألياف الكربون، وعجلة قيادة مكسوة بالكانتارا مع أزرار دوارة للتحكم في إعدادات السيارة، مما يوفر تجربة قيادة تركز على الأداء.",
+        "en": "The cockpit features carbon fiber bucket seats and an Alcantara-wrapped steering wheel with rotary dials for vehicle settings, providing a performance-focused driving experience."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "المقاعد",
+            "en": "Seats"
+          },
+          "value": "Carbon Fiber Bucket"
+        },
+        {
+          "label": {
+            "ar": "الشاشة",
+            "en": "Display"
+          },
+          "value": "Track Screen Mode"
+        }
+      ]
     },
     {
       "id": "gallery-996",
@@ -70,7 +177,27 @@
       "imageHint": "porsche 996",
       "generation": "996",
       "model": "911 GT3 RS",
-      "year": 2004
+      "year": 2004,
+      "detailedDescription": {
+        "ar": "السيارة التي بدأت كل شيء. جيل 996 GT3 RS كان نسخة homologation لسيارات السباق، يتميز بمحرك 'Mezger' الأسطوري ولم يتم بيعه رسميًا في أمريكا الشمالية.",
+        "en": "The one that started it all. The 996 GT3 RS was a homologation special for racing, featuring the legendary 'Mezger' engine and was not officially sold in North America."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "المحرك",
+            "en": "Engine"
+          },
+          "value": "3.6L Mezger Flat-6"
+        },
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "381 HP"
+        }
+      ]
     },
     {
       "id": "gallery-997",
@@ -82,7 +209,27 @@
       "imageHint": "porsche 997",
       "generation": "997",
       "model": "911 GT3 RS",
-      "year": 2007
+      "year": 2007,
+      "detailedDescription": {
+        "ar": "يعتبره الكثير من المتحمسين قمة تجربة القيادة التناظرية. قدم جيل 997 محركات أكبر وبلغ ذروته في نسخة 4.0 النادرة للغاية بقوة 500 حصان.",
+        "en": "Considered by many enthusiasts to be the peak analog driving experience. The 997 generation introduced larger engines and culminated in the ultra-rare 4.0 version with 500 HP."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "المحرك",
+            "en": "Engine"
+          },
+          "value": "3.8L Flat-6 (997.2)"
+        },
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "450 HP (997.2)"
+        }
+      ]
     },
     {
       "id": "gallery-991",
@@ -94,7 +241,27 @@
       "imageHint": "porsche 991",
       "generation": "991",
       "model": "911 GT3 RS",
-      "year": 2015
+      "year": 2015,
+      "detailedDescription": {
+        "ar": "شهد هذا الجيل إدخال ناقل الحركة PDK بشكل قياسي وتوجيه المحور الخلفي. كانت نسخة 991.2 أول سيارة 911 إنتاجية تكسر حاجز 7 دقائق على حلبة نوربورغرينغ.",
+        "en": "This generation saw the introduction of the PDK transmission as standard and rear-axle steering. The 991.2 version was the first production 911 to break the 7-minute barrier at the Nürburgring."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "ناقل الحركة",
+            "en": "Transmission"
+          },
+          "value": "7-Speed PDK"
+        },
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "520 HP (991.2)"
+        }
+      ]
     },
     {
       "id": "gallery-992",
@@ -106,7 +273,27 @@
       "imageHint": "porsche 992",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2024
+      "year": 2024,
+      "detailedDescription": {
+        "ar": "يركز الجيل الأحدث بشكل غير مسبوق على الديناميكا الهوائية. إنه سيارة سباق للطرقات، مع تقنيات مثل نظام تقليل السحب (DRS) ونظام تبريد بمبرد مركزي.",
+        "en": "The latest generation focuses unprecedently on aerodynamics. It's a road-legal race car, with technologies like a drag reduction system (DRS) and a central radiator cooling system."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "القوة السفلية",
+            "en": "Downforce"
+          },
+          "value": "860 kg at 285 km/h"
+        },
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "518 HP"
+        }
+      ]
     },
     {
       "id": "gallery-2023",
@@ -118,7 +305,27 @@
       "imageHint": "porsche 2023",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2023
+      "year": 2023,
+      "detailedDescription": {
+        "ar": "موديل 2023 يأتي بلون 'Tribute to Carrera RS' الخاص، احتفالاً بالذكرى الخمسين لسيارة Carrera RS 2.7 الأسطورية.",
+        "en": "The 2023 model comes in a special 'Tribute to Carrera RS' color scheme, celebrating the 50th anniversary of the legendary Carrera RS 2.7."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "اللون",
+            "en": "Color"
+          },
+          "value": "White/Python Green"
+        },
+        {
+          "label": {
+            "ar": "الإنتاج",
+            "en": "Production"
+          },
+          "value": "Limited Edition"
+        }
+      ]
     },
     {
       "id": "gallery-997-interior",
@@ -130,7 +337,27 @@
       "imageHint": "porsche 997 interior",
       "generation": "997",
       "model": "911 GT3 RS",
-      "year": 2008
+      "year": 2008,
+      "detailedDescription": {
+        "ar": "تمثل المقصورة الداخلية لجيل 997 البساطة التي تركز على السائق. ناقل حركة يدوي، ثلاثة دواسات، وقمرة قيادة خالية من الشاشات الكبيرة، إنها تجربة قيادة نقية.",
+        "en": "The interior of the 997 generation represents driver-focused simplicity. A manual gearbox, three pedals, and a cockpit free of large screens—it's a pure driving experience."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "ناقل الحركة",
+            "en": "Transmission"
+          },
+          "value": "6-Speed Manual"
+        },
+        {
+          "label": {
+            "ar": "المقاعد",
+            "en": "Seats"
+          },
+          "value": "Leather/Alcantara"
+        }
+      ]
     },
     {
       "id": "gallery-2024",
@@ -142,7 +369,27 @@
       "imageHint": "porsche 992 2024",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2024
+      "year": 2024,
+      "detailedDescription": {
+        "ar": "يستمر موديل 2024 في دفع حدود الأداء. مع التحسينات المستمرة في البرامج والديناميكا الهوائية، تظل هذه السيارة المعيار في فئتها.",
+        "en": "The 2024 model continues to push the boundaries of performance. With continuous improvements in software and aerodynamics, this car remains the benchmark in its class."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "السرعة القصوى",
+            "en": "Top Speed"
+          },
+          "value": "296 km/h"
+        },
+        {
+          "label": {
+            "ar": "التسارع",
+            "en": "0-100 km/h"
+          },
+          "value": "3.2s"
+        }
+      ]
     },
     {
       "id": "gallery-2022-rear",
@@ -154,103 +401,27 @@
       "imageHint": "porsche 2022 rear",
       "generation": "992",
       "model": "911 GT3 RS",
-      "year": 2022
-    },
-    {
-      "id": "gallery-blue-side",
-      "description": {
-        "ar": "سيارة بورش زرقاء من الجانب",
-        "en": "Blue Porsche side view"
+      "year": 2022,
+      "detailedDescription": {
+        "ar": "تظهر هذه الصورة تفاصيل مشتت الهواء الخلفي المعقد ومخارج العادم المزدوجة المركزية، وكلها مصممة لتحسين تدفق الهواء والأداء الصوتي.",
+        "en": "This image details the complex rear diffuser and central twin exhaust outlets, all designed for optimized airflow and acoustics."
       },
-      "imageUrl": "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibHVlJTIwcG9yc2NoZXxlbnwwfHx8fDE3NjE0ODMyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "blue porsche",
-      "generation": "991",
-      "model": "911 GT3",
-      "year": 2019
-    },
-    {
-      "id": "gallery-yellow-front",
-      "description": {
-        "ar": "مقدمة سيارة بورش صفراء",
-        "en": "Yellow Porsche front"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1555511837-74b5742a033c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx5ZWxsb3clMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "yellow porsche",
-      "generation": "991",
-      "model": "911 Carrera",
-      "year": 2017
-    },
-    {
-      "id": "gallery-red-rear",
-      "description": {
-        "ar": "مؤخرة سيارة بورش حمراء",
-        "en": "Red Porsche rear"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1599912028013-a5d6a44f890e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "red porsche",
-      "generation": "992",
-      "model": "911 Carrera",
-      "year": 2021
-    },
-    {
-      "id": "gallery-white-action",
-      "description": {
-        "ar": "بورش بيضاء على الطريق",
-        "en": "White Porsche on the road"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHBvcnNjaGV8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "white porsche",
-      "generation": "930",
-      "model": "911 Turbo",
-      "year": 1980
-    },
-    {
-      "id": "gallery-black-detail",
-      "description": {
-        "ar": "تفاصيل سيارة بورش سوداء",
-        "en": "Black Porsche detail"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1580273916550-4257161b2eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMHBvcnNjaGV8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "black porsche",
-      "generation": "992",
-      "model": "911 Turbo S",
-      "year": 2022
-    },
-    {
-      "id": "gallery-green-gt3",
-      "description": {
-        "ar": "بورش GT3 خضراء",
-        "en": "Green Porsche GT3"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1616422285855-554030468318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMHBvcnNjaGUlMjBndDN8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "green porsche gt3",
-      "generation": "992",
-      "model": "911 GT3",
-      "year": 2021
-    },
-    {
-      "id": "gallery-silver-classic",
-      "description": {
-        "ar": "بورش كلاسيكية فضية",
-        "en": "Classic silver Porsche"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaWx2ZXIlMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlibrb-4.1.0&q=80&w=1080",
-      "imageHint": "silver porsche",
-      "generation": "993",
-      "model": "911 Carrera",
-      "year": 1995
-    },
-    {
-      "id": "gallery-rim-detail",
-      "description": {
-        "ar": "تفاصيل إطار السيارة",
-        "en": "Car rim detail"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwd2hlZWx8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlibrb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche wheel",
-      "generation": "992",
-      "model": "Taycan",
-      "year": 2020
+      "specs": [
+        {
+          "label": {
+            "ar": "العادم",
+            "en": "Exhaust"
+          },
+          "value": "Lightweight Sport System"
+        },
+        {
+          "label": {
+            "ar": "المشتت",
+            "en": "Diffuser"
+          },
+          "value": "Carbon Fiber"
+        }
+      ]
     },
     {
       "id": "gallery-lizard-green",
@@ -262,7 +433,27 @@
       "imageHint": "lizard green porsche",
       "generation": "991.2",
       "model": "911 GT3 RS",
-      "year": 2019
+      "year": 2019,
+      "detailedDescription": {
+        "ar": "لون 'أخضر السحلية' الجريء كان لون الإطلاق لجيل 991.2 GT3 RS، وهو لون مميز أصبح مرادفًا لهذا الموديل.",
+        "en": "The bold 'Lizard Green' was the launch color for the 991.2 GT3 RS generation, a signature color that has become synonymous with this model."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "اللون",
+            "en": "Color"
+          },
+          "value": "Lizard Green"
+        },
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "520 HP"
+        }
+      ]
     },
     {
       "id": "gallery-miami-blue",
@@ -274,7 +465,27 @@
       "imageHint": "miami blue porsche",
       "generation": "991.2",
       "model": "911 GT3",
-      "year": 2018
+      "year": 2018,
+      "detailedDescription": {
+        "ar": "لون 'أزرق ميامي' هو لون نابض بالحياة يبرز الخطوط الديناميكية لسيارة 911. على الرغم من أن هذه الصورة لـ GT3، إلا أن اللون كان خيارًا شائعًا عبر مجموعة 911.",
+        "en": "The vibrant 'Miami Blue' is a lively color that highlights the dynamic lines of the 911. Although this is a GT3, the color was a popular option across the 911 range."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "اللون",
+            "en": "Color"
+          },
+          "value": "Miami Blue"
+        },
+        {
+          "label": {
+            "ar": "الموديل",
+            "en": "Model"
+          },
+          "value": "911 GT3"
+        }
+      ]
     },
     {
       "id": "gallery-lava-orange",
@@ -286,7 +497,27 @@
       "imageHint": "lava orange porsche",
       "generation": "991",
       "model": "911 GT3 RS",
-      "year": 2016
+      "year": 2016,
+      "detailedDescription": {
+        "ar": "كان 'برتقالي لافا' هو لون الإطلاق لجيل 991.1 GT3 RS. إنه لون ساطع ومكثف يلفت الانتباه ويبرز الطابع العدواني للسيارة.",
+        "en": "'Lava Orange' was the launch color for the 991.1 GT3 RS generation. It's a bright, intense color that commands attention and highlights the car's aggressive character."
+      },
+      "specs": [
+        {
+          "label": {
+            "ar": "اللون",
+            "en": "Color"
+          },
+          "value": "Lava Orange"
+        },
+        {
+          "label": {
+            "ar": "القوة",
+            "en": "Power"
+          },
+          "value": "500 HP"
+        }
+      ]
     },
     {
       "id": "gallery-chalk",
@@ -298,31 +529,27 @@
       "imageHint": "chalk porsche",
       "generation": "992",
       "model": "911 Carrera S",
-      "year": 2021
-    },
-    {
-      "id": "gallery-guards-red",
-      "description": {
-        "ar": "بورش 911 أحمر الحرس",
-        "en": "Guards Red Porsche 911"
+      "year": 2021,
+      "detailedDescription": {
+        "ar": "لون 'الطباشير' هو لون رمادي فاتح أنيق ومعاصر أصبح شائعًا جدًا في موديلات بورش الحديثة. يمنح السيارة مظهرًا راقيًا دون التضحية بحضورها الرياضي.",
+        "en": "'Chalk' is an elegant and modern light grey that has become very popular on modern Porsche models. It gives the car a sophisticated look without sacrificing its sporty presence."
       },
-      "imageUrl": "https://images.unsplash.com/photo-1599912028013-a5d6a44f890e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBwb3JzY2hlJTIwOTExfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "red porsche 911",
-      "generation": "992",
-      "model": "911 Carrera 4S",
-      "year": "2020"
-    },
-    {
-      "id": "gallery-racing-yellow",
-      "description": {
-        "ar": "GT3 أصفر سباقي",
-        "en": "Racing Yellow GT3"
-      },
-      "imageUrl": "https://images.unsplash.com/photo-1600002132386-75b954c73336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyYWNpbmclMjB5ZWxsb3clMjBwb3JzY2hlfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "racing yellow porsche",
-      "generation": "992",
-      "model": "911 GT3",
-      "year": "2021"
+      "specs": [
+        {
+          "label": {
+            "ar": "اللون",
+            "en": "Color"
+          },
+          "value": "Chalk"
+        },
+        {
+          "label": {
+            "ar": "الموديل",
+            "en": "Model"
+          },
+          "value": "911 Carrera S"
+        }
+      ]
     }
   ]
 }
