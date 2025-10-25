@@ -87,24 +87,24 @@ export default function HomeSection() {
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                 {galleryImages.map((image, index) => (
-                    <Link href={`/gallery/${image.id}`} key={image.id} legacyBehavior>
-                        <a 
-                            className="block overflow-hidden group relative animate-fade-in-up"
-                            style={{animationDelay: `${0.2 + index * 0.1}s`}}
-                        >
-                            <Image
-                                src={image.imageUrl}
-                                alt={image.description['ar']}
-                                fill
-                                className="object-cover transition-transform duration-500 ease-in-out group-hover:scale-110"
-                                sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-                                data-ai-hint={image.imageHint}
-                            />
-                            <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
-                            <div className="absolute bottom-0 left-0 right-0 p-4">
-                                <p className="text-white font-semibold text-sm drop-shadow-md">{image.description['ar']}</p>
-                            </div>
-                        </a>
+                    <Link 
+                        href={`/gallery/${image.id}`} 
+                        key={image.id}
+                        className="block overflow-hidden group relative animate-fade-in-up rounded-lg aspect-[4/3]"
+                        style={{animationDelay: `${0.2 + index * 0.1}s`}}
+                    >
+                        <Image
+                            src={image.imageUrl}
+                            alt={image.description['ar']}
+                            fill
+                            className="object-cover transition-transform duration-500 ease-in-out group-hover:scale-110"
+                            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                            data-ai-hint={image.imageHint}
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
+                        <div className="absolute bottom-0 left-0 right-0 p-4">
+                            <p className="text-white font-semibold text-sm drop-shadow-md">{image.description['ar']}</p>
+                        </div>
                     </Link>
                 ))}
             </div>
