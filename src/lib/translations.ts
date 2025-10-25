@@ -147,6 +147,12 @@ export const translations = {
         title: "معرض أيقونات GT3 RS",
         description: "استكشف جمال وتنوع سيارة بورش 911 GT3 RS عبر الأجيال والألوان المختلفة."
       },
+      imageDetail: {
+          backToGallery: "العودة إلى المعرض",
+          model: "الموديل",
+          generation: "الجيل",
+          year: "السنة"
+      },
       summarizer: {
         title: "تلخيص مراجعات GT3 RS",
         description: "هل لديك مقال أو مراجعة طويلة عن بورش GT3 RS؟ الصق النص هنا للحصول على ملخص سريع لأهم النقاط.",
@@ -311,6 +317,12 @@ export const translations = {
         title: "Gallery of GT3 RS Icons",
         description: "Explore the beauty and diversity of the Porsche 911 GT3 RS across different generations and colors."
       },
+      imageDetail: {
+        backToGallery: "Back to Gallery",
+        model: "Model",
+        generation: "Generation",
+        year: "Year"
+      },
       summarizer: {
         title: "Summarize GT3 RS Reviews",
         description: "Have a long article or review about the Porsche GT3 RS? Paste the text here to get a quick summary of the key points.",
@@ -331,3 +343,5 @@ export const translations = {
   
   export type Translations = typeof translations;
   
+
+    

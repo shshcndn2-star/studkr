@@ -8,6 +8,11 @@ export type ImagePlaceholder = {
   };
   imageUrl: string;
   imageHint: string;
+  generation: string;
+  model: string;
+  year: number | string;
 };
 
 export const PlaceHolderImages: ImagePlaceholder[] = data.placeholderImages;
+
+    

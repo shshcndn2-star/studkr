@@ -7,7 +7,10 @@
         "en": "Porsche 911 GT3 RS on a race track"
       },
       "imageUrl": "https://images.unsplash.com/photo-1693322002279-0208bc8fc4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwcmFjZSUyMHRyYWNrfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche race track"
+      "imageHint": "porsche race track",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2023
     },
     {
       "id": "tracks-rear",
@@ -16,7 +19,10 @@
         "en": "Rear view of the GT3 RS"
       },
       "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3JzY2hlJTIwcmVhciUyMHdpbmd8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche rear wing"
+      "imageHint": "porsche rear wing",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2022
     },
     {
       "id": "tracks-front",
@@ -25,7 +31,10 @@
         "en": "Front view of the GT3 RS"
       },
       "imageUrl": "https://images.unsplash.com/photo-1685914375186-af6e88ac9141?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JzY2hlJTIwZnJvbnR8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche front"
+      "imageHint": "porsche front",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2023
     },
     {
       "id": "tracks-side",
@@ -34,7 +43,10 @@
         "en": "Side profile of the GT3 RS"
       },
       "imageUrl": "https://images.unsplash.com/photo-1558992658-08a063bb01af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwc2lkZSUyMHByb2ZpbGV8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche side profile"
+      "imageHint": "porsche side profile",
+      "generation": "991",
+      "model": "911 GT3 RS",
+      "year": 2018
     },
     {
       "id": "tracks-interior",
@@ -43,7 +55,10 @@
         "en": "Interior cockpit of the GT3 RS"
       },
       "imageUrl": "https://images.unsplash.com/photo-1753908732184-3f79136b3441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwY29ja3BpdHxlbnwwfHx8fDE3NjEzOTAzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche cockpit"
+      "imageHint": "porsche cockpit",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2023
     },
     {
       "id": "gallery-996",
@@ -52,7 +67,10 @@
         "en": "Porsche 996 GT3 RS"
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Porsche_911_GT3_RS_996_JP_Racing_-_79_-_WPOZZZ99Z2S692087.jpg",
-      "imageHint": "porsche 996"
+      "imageHint": "porsche 996",
+      "generation": "996",
+      "model": "911 GT3 RS",
+      "year": 2004
     },
     {
       "id": "gallery-997",
@@ -61,7 +79,10 @@
         "en": "Porsche 997 GT3 RS"
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Porsche_911_GT3_RS_997.JPG",
-      "imageHint": "porsche 997"
+      "imageHint": "porsche 997",
+      "generation": "997",
+      "model": "911 GT3 RS",
+      "year": 2007
     },
     {
       "id": "gallery-991",
@@ -70,7 +91,10 @@
         "en": "Porsche 991 GT3 RS"
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Porsche_911_GT3_RS_%28991%29_%2824176974393%29.jpg",
-      "imageHint": "porsche 991"
+      "imageHint": "porsche 991",
+      "generation": "991",
+      "model": "911 GT3 RS",
+      "year": 2015
     },
     {
       "id": "gallery-992",
@@ -79,7 +103,10 @@
         "en": "Porsche 992 GT3 RS"
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Porsche_911_GT3_RS_992_HCC24.jpg",
-      "imageHint": "porsche 992"
+      "imageHint": "porsche 992",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2024
     },
     {
       "id": "gallery-2023",
@@ -88,7 +115,10 @@
         "en": "Porsche 911 GT3 RS (2023)."
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Porsche_911_GT3_RS_%282023%29.jpg",
-      "imageHint": "porsche 2023"
+      "imageHint": "porsche 2023",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2023
     },
     {
       "id": "gallery-997-interior",
@@ -97,7 +127,10 @@
         "en": "Interior of a Porsche 997 GT3 RS."
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Porsche_911_GT3_RS_997_Interior.jpg",
-      "imageHint": "porsche 997 interior"
+      "imageHint": "porsche 997 interior",
+      "generation": "997",
+      "model": "911 GT3 RS",
+      "year": 2008
     },
     {
       "id": "gallery-2024",
@@ -106,7 +139,10 @@
         "en": "2024 Porsche 911 992 GT3 RS."
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2024_Porsche_911_992_GT3_RS.jpg",
-      "imageHint": "porsche 992 2024"
+      "imageHint": "porsche 992 2024",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2024
     },
     {
       "id": "gallery-2022-rear",
@@ -115,7 +151,10 @@
         "en": "Rear view of a Porsche 911 GT3 RS (2022)."
       },
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porsche_911_GT3_RS_%282022%29_1X7A7164.jpg",
-      "imageHint": "porsche 2022 rear"
+      "imageHint": "porsche 2022 rear",
+      "generation": "992",
+      "model": "911 GT3 RS",
+      "year": 2022
     },
     {
       "id": "gallery-blue-side",
@@ -124,7 +163,10 @@
         "en": "Blue Porsche side view"
       },
       "imageUrl": "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibHVlJTIwcG9yc2NoZXxlbnwwfHx8fDE3NjE0ODMyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "blue porsche"
+      "imageHint": "blue porsche",
+      "generation": "991",
+      "model": "911 GT3",
+      "year": 2019
     },
     {
       "id": "gallery-yellow-front",
@@ -133,7 +175,10 @@
         "en": "Yellow Porsche front"
       },
       "imageUrl": "https://images.unsplash.com/photo-1555511837-74b5742a033c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx5ZWxsb3clMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "yellow porsche"
+      "imageHint": "yellow porsche",
+      "generation": "991",
+      "model": "911 Carrera",
+      "year": 2017
     },
     {
       "id": "gallery-red-rear",
@@ -142,7 +187,10 @@
         "en": "Red Porsche rear"
       },
       "imageUrl": "https://images.unsplash.com/photo-1599912028013-a5d6a44f890e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "red porsche"
+      "imageHint": "red porsche",
+      "generation": "992",
+      "model": "911 Carrera",
+      "year": 2021
     },
     {
       "id": "gallery-white-action",
@@ -151,7 +199,10 @@
         "en": "White Porsche on the road"
       },
       "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHBvcnNjaGV8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "white porsche"
+      "imageHint": "white porsche",
+      "generation": "930",
+      "model": "911 Turbo",
+      "year": 1980
     },
     {
       "id": "gallery-black-detail",
@@ -160,7 +211,10 @@
         "en": "Black Porsche detail"
       },
       "imageUrl": "https://images.unsplash.com/photo-1580273916550-4257161b2eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMHBvcnNjaGV8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "black porsche"
+      "imageHint": "black porsche",
+      "generation": "992",
+      "model": "911 Turbo S",
+      "year": 2022
     },
     {
       "id": "gallery-green-gt3",
@@ -169,7 +223,10 @@
         "en": "Green Porsche GT3"
       },
       "imageUrl": "https://images.unsplash.com/photo-1616422285855-554030468318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMHBvcnNjaGUlMjBndDN8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "green porsche gt3"
+      "imageHint": "green porsche gt3",
+      "generation": "992",
+      "model": "911 GT3",
+      "year": 2021
     },
     {
       "id": "gallery-silver-classic",
@@ -178,7 +235,10 @@
         "en": "Classic silver Porsche"
       },
       "imageUrl": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaWx2ZXIlMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlibrb-4.1.0&q=80&w=1080",
-      "imageHint": "silver porsche"
+      "imageHint": "silver porsche",
+      "generation": "993",
+      "model": "911 Carrera",
+      "year": 1995
     },
     {
       "id": "gallery-rim-detail",
@@ -187,7 +247,10 @@
         "en": "Car rim detail"
       },
       "imageUrl": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwd2hlZWx8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlibrb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche wheel"
+      "imageHint": "porsche wheel",
+      "generation": "992",
+      "model": "Taycan",
+      "year": 2020
     },
     {
       "id": "gallery-lizard-green",
@@ -196,7 +259,10 @@
         "en": "Lizard Green GT3 RS"
       },
       "imageUrl": "https://images.unsplash.com/photo-1568444438318-4980583158e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXphcmQlMjBncmVlbiUyMHBvcnNjaGV8ZW58MHx8fHwxNzYzNTk0NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lizard green porsche"
+      "imageHint": "lizard green porsche",
+      "generation": "991.2",
+      "model": "911 GT3 RS",
+      "year": 2019
     },
     {
       "id": "gallery-miami-blue",
@@ -205,7 +271,10 @@
         "en": "Miami Blue 911"
       },
       "imageUrl": "https://images.unsplash.com/photo-1621287945391-a1851e3c880f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaWFtaSUyMGJsdWUlMjBwb3JzY2hlfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "miami blue porsche"
+      "imageHint": "miami blue porsche",
+      "generation": "991.2",
+      "model": "911 GT3",
+      "year": 2018
     },
     {
       "id": "gallery-lava-orange",
@@ -214,7 +283,10 @@
         "en": "Lava Orange GT3 RS"
       },
       "imageUrl": "https://images.unsplash.com/photo-1614261180143-a20c5de35c52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXZhJTIwb3JhbmdlJTIwcG9yc2NoZXxlbnwwfHx8fDE3NjM1OTQ3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "lava orange porsche"
+      "imageHint": "lava orange porsche",
+      "generation": "991",
+      "model": "911 GT3 RS",
+      "year": 2016
     },
     {
       "id": "gallery-chalk",
@@ -223,7 +295,10 @@
         "en": "Chalk colored Porsche"
       },
       "imageUrl": "https://images.unsplash.com/photo-1616016823321-9d54e4a7c093?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGFsayUyMHBvcnNjaGV8ZW58MHx8fHwxNzYzNTk0NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "chalk porsche"
+      "imageHint": "chalk porsche",
+      "generation": "992",
+      "model": "911 Carrera S",
+      "year": 2021
     },
     {
       "id": "gallery-guards-red",
@@ -232,7 +307,10 @@
         "en": "Guards Red Porsche 911"
       },
       "imageUrl": "https://images.unsplash.com/photo-1599912028013-a5d6a44f890e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBwb3JzY2hlJTIwOTExfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "red porsche 911"
+      "imageHint": "red porsche 911",
+      "generation": "992",
+      "model": "911 Carrera 4S",
+      "year": "2020"
     },
     {
       "id": "gallery-racing-yellow",
@@ -241,7 +319,10 @@
         "en": "Racing Yellow GT3"
       },
       "imageUrl": "https://images.unsplash.com/photo-1600002132386-75b954c73336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyYWNpbmclMjB5ZWxsb3clMjBwb3JzY2hlfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "racing yellow porsche"
+      "imageHint": "racing yellow porsche",
+      "generation": "992",
+      "model": "911 GT3",
+      "year": "2021"
     }
   ]
 }
