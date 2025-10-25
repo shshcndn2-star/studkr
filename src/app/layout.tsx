@@ -4,7 +4,6 @@ import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 import { ThemeProvider } from '@/components/theme-provider';
 import { SidebarProvider } from '@/components/ui/sidebar';
-import { LanguageProvider } from '@/context/language-context';
 
 export const metadata: Metadata = {
   title: 'The End - Porsche 911 GT3 RS',
@@ -32,12 +31,10 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          <LanguageProvider>
             <SidebarProvider>
               {children}
             </SidebarProvider>
             <Toaster />
-          </LanguageProvider>
         </ThemeProvider>
       </body>
     </html>

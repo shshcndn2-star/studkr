@@ -4,16 +4,12 @@ import Image from "next/image";
 import { SectionWrapper } from "../shared/section-wrapper";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { useLanguage } from "@/context/language-context";
-import { translations } from "@/lib/translations";
 import { ArrowLeft } from "lucide-react";
 import { Button } from "../ui/button";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
 export default function ImageDetailSection({ imageId }: { imageId: string }) {
-  const { language } = useLanguage();
-  const t = translations[language];
 
   const image = PlaceHolderImages.find(p => p.id === imageId);
 
@@ -22,9 +18,9 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
   }
 
   const details = [
-    { label: t.imageDetail.model, value: image.model },
-    { label: t.imageDetail.generation, value: image.generation },
-    { label: t.imageDetail.year, value: image.year.toString() },
+    { label: "الموديل", value: image.model },
+    { label: "الجيل", value: image.generation },
+    { label: "السنة", value: image.year.toString() },
   ];
 
   return (
@@ -34,7 +30,7 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
             <Button asChild variant="ghost">
                 <Link href="/gallery">
                     <ArrowLeft className="me-2" />
-                    {t.imageDetail.backToGallery}
+                    العودة إلى المعرض
                 </Link>
             </Button>
         </div>
@@ -43,7 +39,7 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
             <div className="aspect-[4/3] relative">
               <Image
                 src={image.imageUrl}
-                alt={image.description[language]}
+                alt={image.description['ar']}
                 fill
                 className="object-cover"
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -54,7 +50,7 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
             <div className="flex flex-col p-6">
               <CardHeader>
                 <CardTitle className="text-3xl font-headline text-primary">{image.model}</CardTitle>
-                <CardDescription>{image.description[language]}</CardDescription>
+                <CardDescription>{image.description['ar']}</CardDescription>
               </CardHeader>
               <CardContent className="flex-grow">
                 <dl className="space-y-4">
@@ -73,5 +69,3 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
     </SectionWrapper>
   );
 }
-
-    

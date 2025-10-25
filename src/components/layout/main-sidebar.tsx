@@ -10,25 +10,20 @@ import {
 import { navLinks as defaultNavLinks } from '@/lib/utils';
 import { useActivePath } from '@/hooks/use-active-path';
 import Link from 'next/link';
-import { useMemo } from 'react';
-import { useLanguage } from '@/context/language-context';
-import { translations } from '@/lib/translations';
 
 export function MainSidebar() {
   const checkActivePath = useActivePath();
   const { setOpenMobile } = useSidebar();
-  const { language } = useLanguage();
-  const t = translations[language];
-
-  const navLinks = useMemo(() => defaultNavLinks(t), [t]);
+  const navLinks = defaultNavLinks();
 
   return (
     <SidebarContent>
       <SidebarMenu>
         {navLinks.map((link) => (
           <SidebarMenuItem key={link.href}>
-            <Link href={link.href}>
+            <Link href={link.href} passHref>
               <SidebarMenuButton
+                as="a"
                 isActive={checkActivePath(link.href)}
                 onClick={() => setOpenMobile(false)}
                 tooltip={link.label}
