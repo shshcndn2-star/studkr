@@ -36,6 +36,11 @@ export const translations = {
             title: "تصميم أيقوني",
             description: "ديناميكية هوائية متطورة وجناح خلفي مستوحى من سيارات السباق.",
           }
+        },
+        latestGallery: {
+          title: "أحدث الصور",
+          description: "لمحات من الجمال والقوة في أحدث إضافات المعرض.",
+          viewMore: "عرض كل الصور"
         }
       },
       specs: {
@@ -142,6 +147,18 @@ export const translations = {
         title: "معرض أيقونات GT3 RS",
         description: "استكشف جمال وتنوع سيارة بورش 911 GT3 RS عبر الأجيال والألوان المختلفة."
       },
+      summarizer: {
+        title: "تلخيص مراجعات GT3 RS",
+        description: "هل لديك مقال أو مراجعة طويلة عن بورش GT3 RS؟ الصق النص هنا للحصول على ملخص سريع لأهم النقاط.",
+        placeholder: "الصق المحتوى هنا...",
+        buttonText: "لخص الآن",
+        loading: "جاري التلخيص...",
+        summaryTitle: "الملخص",
+        errorTitle: "خطأ",
+        errorDescription: "يرجى إدخال محتوى ليتم تلخيصه.",
+        failureTitle: "فشل التلخيص",
+        failureDescription: "عذرًا، حدث خطأ أثناء محاولة تلخيص المحتوى."
+      },
       footer: {
         copyright: "جميع الحقوق محفوظة © 2025 Yousef"
       }
@@ -183,6 +200,11 @@ export const translations = {
             title: "Iconic Design",
             description: "Advanced aerodynamics and a rear wing inspired by race cars.",
           }
+        },
+        latestGallery: {
+          title: "Latest Photos",
+          description: "Glimpses of beauty and power from our newest gallery additions.",
+          viewMore: "View All Photos"
         }
       },
       specs: {
@@ -288,6 +310,18 @@ export const translations = {
       gallery: {
         title: "Gallery of GT3 RS Icons",
         description: "Explore the beauty and diversity of the Porsche 911 GT3 RS across different generations and colors."
+      },
+      summarizer: {
+        title: "Summarize GT3 RS Reviews",
+        description: "Have a long article or review about the Porsche GT3 RS? Paste the text here to get a quick summary of the key points.",
+        placeholder: "Paste the content here...",
+        buttonText: "Summarize Now",
+        loading: "Summarizing...",
+        summaryTitle: "Summary",
+        errorTitle: "Error",
+        errorDescription: "Please enter some content to summarize.",
+        failureTitle: "Summarization Failed",
+        failureDescription: "Sorry, an error occurred while trying to summarize the content."
       },
       footer: {
           copyright: "© 2025 Yousef. All rights reserved."

@@ -4,13 +4,14 @@ import Image from "next/image";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { Button } from "../ui/button";
 import Link from "next/link";
-import { ArrowLeft, Car, Gauge, History } from "lucide-react";
+import { ArrowLeft, Car, Gauge, History, GalleryHorizontal } from "lucide-react";
 import { Card, CardContent, CardHeader, CardTitle } from "../ui/card";
 import { useLanguage } from "@/context/language-context";
 import { translations } from "@/lib/translations";
 
 export default function HomeSection() {
   const heroImage = PlaceHolderImages.find(p => p.id === 'hero');
+  const galleryImages = PlaceHolderImages.filter(p => p.id.startsWith('gallery-')).slice(0, 4);
   const { language } = useLanguage();
   const t = translations[language].home;
   
@@ -79,6 +80,47 @@ export default function HomeSection() {
                         </CardContent>
                     </Card>
                 ))}
+            </div>
+        </div>
+    </section>
+    <section id="latest-gallery" className="py-16 md:py-24">
+        <div className="container mx-auto px-4">
+            <div className="text-center mb-12">
+                <h2 className="text-3xl md:text-4xl font-headline text-primary animate-fade-in-down">{t.latestGallery.title}</h2>
+                <p className="text-muted-foreground mt-2 animate-fade-in-up [animation-delay:0.1s]">{t.latestGallery.description}</p>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+                {galleryImages.map((image, index) => (
+                    <Link href="/gallery" key={image.id}>
+                        <Card 
+                            className="overflow-hidden group relative animate-fade-in-up"
+                            style={{animationDelay: `${0.2 + index * 0.1}s`}}
+                        >
+                            <CardContent className="p-0 aspect-[4/3] relative">
+                                <Image
+                                    src={image.imageUrl}
+                                    alt={image.description[language]}
+                                    fill
+                                    className="object-cover transition-transform duration-500 ease-in-out group-hover:scale-110"
+                                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                                    data-ai-hint={image.imageHint}
+                                />
+                                <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
+                                <div className="absolute bottom-0 left-0 right-0 p-4">
+                                    <p className="text-white font-semibold text-sm drop-shadow-md">{image.description[language]}</p>
+                                </div>
+                            </CardContent>
+                        </Card>
+                    </Link>
+                ))}
+            </div>
+            <div className="text-center mt-12 animate-fade-in-up [animation-delay:0.6s]">
+                <Button asChild size="lg" variant="outline">
+                    <Link href="/gallery">
+                        <GalleryHorizontal className="me-2"/>
+                        {t.latestGallery.viewMore}
+                    </Link>
+                </Button>
             </div>
         </div>
     </section>
