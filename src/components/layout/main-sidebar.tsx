@@ -21,10 +21,9 @@ export function MainSidebar() {
       <SidebarMenu>
         {navLinks.map((link) => (
           <SidebarMenuItem key={link.href}>
-            <Link href={link.href}>
-               <SidebarMenuButton
+            <Link href={link.href} onClick={() => setOpenMobile(false)}>
+              <SidebarMenuButton
                 isActive={checkActivePath(link.href)}
-                onClick={() => setOpenMobile(false)}
                 tooltip={link.label}
               >
                 <span>{link.label}</span>

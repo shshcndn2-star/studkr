@@ -20,7 +20,7 @@ export default function GallerySection() {
           <Link 
             href={`/gallery/${image.id}`} 
             key={image.id}
-            className="block group" 
+            className="block group animate-fade-in-up" 
             style={{animationDelay: `${index * 50}ms`}}
           >
             <Card 
