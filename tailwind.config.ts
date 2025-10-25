@@ -16,7 +16,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        body: ['Inter', 'sans-serif'],
+        body: ['Cairo', 'Inter', 'sans-serif'],
         headline: ['Space Grotesk', 'sans-serif'],
         code: ['monospace'],
       },

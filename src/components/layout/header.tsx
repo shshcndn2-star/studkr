@@ -10,10 +10,15 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
+import { useLanguage } from '@/context/language-context';
+import { translations } from '@/lib/translations';
 
 export default function Header() {
+  const { language, setLanguage } = useLanguage();
+  const t = translations[language];
 
   const switchLanguage = (lang: 'ar' | 'en') => {
+    setLanguage(lang);
     const newDir = lang === 'ar' ? 'rtl' : 'ltr';
     document.documentElement.lang = lang;
     document.documentElement.dir = newDir;
@@ -28,7 +33,7 @@ export default function Header() {
         </div>
         <div className="flex items-center gap-4 flex-1">
           <Car className="h-6 w-6 text-primary" />
-          <h1 className="font-headline text-lg font-bold text-primary">The End</h1>
+          <h1 className="font-headline text-lg font-bold text-primary">{t.appName}</h1>
         </div>
         <div className="flex flex-1 items-center justify-end gap-2">
           <DropdownMenu>

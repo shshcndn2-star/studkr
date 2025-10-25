@@ -7,11 +7,13 @@ import {
   SidebarMenuButton,
   useSidebar,
 } from '@/components/ui/sidebar';
-import { navLinks } from '@/lib/utils';
+import { navLinks as defaultNavLinks } from '@/lib/utils';
 import { useActivePath } from '@/hooks/use-active-path';
 import Link from 'next/link';
 import { useRouter, usePathname } from 'next/navigation';
-import { useTransition } from 'react';
+import { useTransition, useMemo } from 'react';
+import { useLanguage } from '@/context/language-context';
+import { translations } from '@/lib/translations';
 
 export function MainSidebar() {
   const checkActivePath = useActivePath();
@@ -19,13 +21,16 @@ export function MainSidebar() {
   const router = useRouter();
   const pathname = usePathname();
   const [isPending, startTransition] = useTransition();
+  const { language } = useLanguage();
+  const t = translations[language];
 
+  const navLinks = useMemo(() => defaultNavLinks(t), [t]);
 
   const handleLinkClick = (href: string) => {
     if (pathname !== href) {
-        startTransition(() => {
-            router.push(href);
-        });
+      startTransition(() => {
+        router.push(href);
+      });
     }
     setOpenMobile(false);
   };
@@ -41,7 +46,7 @@ export function MainSidebar() {
               tooltip={link.label}
               disabled={isPending}
             >
-                <span>{link.label}</span>
+              <span>{link.label}</span>
             </SidebarMenuButton>
           </SidebarMenuItem>
         ))}
