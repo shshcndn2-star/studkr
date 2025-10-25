@@ -51,7 +51,7 @@
         "ar": "بورش 996 GT3 RS",
         "en": "Porsche 996 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1723572209392-5b738b25e469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwOTk2fGVufDB8fHx8MTc2MTM5MDMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Porsche_911_GT3_RS_996_JP_Racing_-_79_-_WPOZZZ99Z2S692087.jpg",
       "imageHint": "porsche 996"
     },
     {
@@ -60,7 +60,7 @@
         "ar": "بورش 997 GT3 RS",
         "en": "Porsche 997 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1672717895774-3ab2eddfe538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3JzY2hlJTIwOTk3fGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Porsche_911_GT3_RS_997.JPG",
       "imageHint": "porsche 997"
     },
     {
@@ -69,7 +69,7 @@
         "ar": "بورش 991 GT3 RS",
         "en": "Porsche 991 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1559533684-31e7059ad1cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JzY2hlJTIwOTkxfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Porsche_911_GT3_RS_%28991%29_%2824176974393%29.jpg",
       "imageHint": "porsche 991"
     },
     {
@@ -78,8 +78,44 @@
         "ar": "بورش 992 GT3 RS",
         "en": "Porsche 992 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1732624696118-27404ef1f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwOTkyfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Porsche_911_GT3_RS_992_HCC24.jpg",
       "imageHint": "porsche 992"
+    },
+    {
+      "id": "gallery-2023",
+      "description": {
+        "ar": "بورش 911 GT3 RS موديل 2023.",
+        "en": "Porsche 911 GT3 RS (2023)."
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Porsche_911_GT3_RS_%282023%29.jpg",
+      "imageHint": "porsche 2023"
+    },
+    {
+      "id": "gallery-997-interior",
+      "description": {
+        "ar": "المقصورة الداخلية لبورش 997 GT3 RS.",
+        "en": "Interior of a Porsche 997 GT3 RS."
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Porsche_911_GT3_RS_997_Interior.jpg",
+      "imageHint": "porsche 997 interior"
+    },
+    {
+      "id": "gallery-2024",
+      "description": {
+        "ar": "بورش 911 (992) GT3 RS موديل 2024.",
+        "en": "2024 Porsche 911 992 GT3 RS."
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/2024_Porsche_911_992_GT3_RS.jpg",
+      "imageHint": "porsche 992 2024"
+    },
+    {
+      "id": "gallery-2022-rear",
+      "description": {
+        "ar": "منظر خلفي لبورش 911 GT3 RS (2022).",
+        "en": "Rear view of a Porsche 911 GT3 RS (2022)."
+      },
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Porsche_911_GT3_RS_%282022%29_1X7A7164.jpg",
+      "imageHint": "porsche 2022 rear"
     },
     {
       "id": "gallery-blue-side",
