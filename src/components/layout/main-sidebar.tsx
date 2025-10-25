@@ -7,7 +7,8 @@ import {
   SidebarMenuButton,
   useSidebar,
 } from '@/components/ui/sidebar';
-import { useActivePath, navLinks } from '@/lib/utils';
+import { navLinks } from '@/lib/utils';
+import { useActivePath } from '@/hooks/use-active-path';
 import Link from 'next/link';
 
 export function MainSidebar() {
