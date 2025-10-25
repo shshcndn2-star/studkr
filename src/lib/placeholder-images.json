@@ -6,7 +6,7 @@
         "ar": "بورش 911 GT3 RS على حلبة سباق",
         "en": "Porsche 911 GT3 RS on a race track"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1693322002279-0208bc8fc4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwcmFjZSUyMHRyYWNrfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1693322002279-0208bc8fc4c1?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche race track",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -45,7 +45,7 @@
         "ar": "منظر خلفي لسيارة GT3 RS",
         "en": "Rear view of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3JzY2hlJTIwcmVhciUyMHdpbmd8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche rear wing",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -77,7 +77,7 @@
         "ar": "منظر أمامي لسيارة GT3 RS",
         "en": "Front view of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1685914375186-af6e88ac9141?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JzY2hlJTIwZnJvbnR8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1685914375186-af6e88ac9141?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche front",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -109,7 +109,7 @@
         "ar": "منظر جانبي لسيارة GT3 RS",
         "en": "Side profile of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1558992658-08a063bb01af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwc2lkZSUyMHByb2ZpbGV8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1558992658-08a063bb01af?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche side profile",
       "generation": "991",
       "model": "911 GT3 RS",
@@ -141,7 +141,7 @@
         "ar": "مقصورة القيادة الداخلية لسيارة GT3 RS",
         "en": "Interior cockpit of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1753908732184-3f79136b3441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwY29ja3BpdHxlbnwwfHx8fDE3NjEzOTAzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1753908732184-3f79136b3441?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche cockpit",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -173,7 +173,7 @@
         "ar": "بورش 996 GT3 RS",
         "en": "Porsche 996 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1616016120863-e38c92a6c8b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTk2JTIwZ3QzJTIwcnN8ZW58MHx8fHwxNzY0MjgwNDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1616016120863-e38c92a6c8b3?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 996",
       "generation": "996",
       "model": "911 GT3 RS",
@@ -205,7 +205,7 @@
         "ar": "بورش 997 GT3 RS",
         "en": "Porsche 997 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1604130452582-1e90865e94b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTk3JTIwZ3QzJTIwcnN8ZW58MHx8fHwxNzY0MjgwNDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1604130452582-1e90865e94b1?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 997",
       "generation": "997",
       "model": "911 GT3 RS",
@@ -237,7 +237,7 @@
         "ar": "بورش 991 GT3 RS",
         "en": "Porsche 991 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1614261180143-a20c5de35c52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXZhJTIwb3JhbmdlJTIwcG9yc2NoZSUyMDk5MXxlbnwwfHx8fDE3NjQyODA0Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614261180143-a20c5de35c52?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 991",
       "generation": "991",
       "model": "911 GT3 RS",
@@ -269,7 +269,7 @@
         "ar": "بورش 992 GT3 RS",
         "en": "Porsche 992 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTkyJTIwZ3QzJTIwcnN8ZW58MHx8fHwxNzY0MjgwNDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 992",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -301,7 +301,7 @@
         "ar": "بورش 911 GT3 RS موديل 2023.",
         "en": "Porsche 911 GT3 RS (2023)."
       },
-      "imageUrl": "https://images.unsplash.com/photo-1693322002279-0208bc8fc4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwZ3QzJTIwcnMlMjAyMDIzfGVufDB8fHx8MTc2NDI4MDQyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1693322002279-0208bc8fc4c1?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 2023",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -333,7 +333,7 @@
         "ar": "المقصورة الداخلية لبورش 997 GT3 RS.",
         "en": "Interior of a Porsche 997 GT3 RS."
       },
-      "imageUrl": "https://images.unsplash.com/photo-1574711221151-a7a3da4b4a2e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTk3JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY0MjgwNDI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1574711221151-a7a3da4b4a2e?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 997 interior",
       "generation": "997",
       "model": "911 GT3 RS",
@@ -365,7 +365,7 @@
         "ar": "بورش 911 (992) GT3 RS موديل 2024.",
         "en": "2024 Porsche 911 992 GT3 RS."
       },
-      "imageUrl": "https://images.unsplash.com/photo-1685914375186-af6e88ac9141?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwOTkyJTIwcnMlMjAyMDI0fGVufDB8fHx8MTc2NDI4MDQyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1685914375186-af6e88ac9141?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 992 2024",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -397,7 +397,7 @@
         "ar": "منظر خلفي لبورش 911 GT3 RS (2022).",
         "en": "Rear view of a Porsche 911 GT3 RS (2022)."
       },
-      "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JzY2hlJTIwOTkyJTIwcnMlMjByZWFyfGVufDB8fHx8MTc2NDI4MDQyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "porsche 2022 rear",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -429,7 +429,7 @@
         "ar": "GT3 RS بلون أخضر السحلية",
         "en": "Lizard Green GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1568444438318-4980583158e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXphcmQlMjBncmVlbiUyMHBvcnNjaGV8ZW58MHx8fHwxNzYzNTk0NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1568444438318-4980583158e0?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "lizard green porsche",
       "generation": "991.2",
       "model": "911 GT3 RS",
@@ -461,7 +461,7 @@
         "ar": "911 أزرق ميامي",
         "en": "Miami Blue 911"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1621287945391-a1851e3c880f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaWFtaSUyMGJsdWUlMjBwb3JzY2hlfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1621287945391-a1851e3c880f?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "miami blue porsche",
       "generation": "991.2",
       "model": "911 GT3",
@@ -493,7 +493,7 @@
         "ar": "GT3 RS برتقالي لافا",
         "en": "Lava Orange GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1614261180143-a20c5de35c52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXZhJTIwb3JhbmdlJTIwcG9yc2NoZXxlbnwwfHx8fDE3NjM1OTQ3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614261180143-a20c5de35c52?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "lava orange porsche",
       "generation": "991",
       "model": "911 GT3 RS",
@@ -525,7 +525,7 @@
         "ar": "بورش بلون الطباشير",
         "en": "Chalk colored Porsche"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1616016823321-9d54e4a7c093?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGFsayUyMHBvcnNjaGV8ZW58MHx8fHwxNzYzNTk0NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1616016823321-9d54e4a7c093?q=80&w=1080&auto=format&fit=crop",
       "imageHint": "chalk porsche",
       "generation": "992",
       "model": "911 Carrera S",
