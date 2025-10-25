@@ -4,7 +4,7 @@ import Image from "next/image";
 import { SectionWrapper } from "../shared/section-wrapper";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { ArrowLeft, Calendar, Gauge, Cog, Hash } from "lucide-react";
+import { ArrowLeft, Calendar, Hash } from "lucide-react";
 import { Button } from "../ui/button";
 import Link from "next/link";
 import { notFound } from "next/navigation";
