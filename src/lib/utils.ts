@@ -16,6 +16,4 @@ export const navLinks = (t: Translations[keyof Translations] | any): NavLink[] =
   { href: '/tracks', label: t.nav.tracks },
   { href: '/mods', label: t.nav.mods },
   { href: '/gallery', label: t.nav.gallery },
-  { href: '/video', label: t.nav.video },
-  { href: '/summarizer', label: t.nav.summarizer },
 ];

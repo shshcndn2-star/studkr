@@ -2,111 +2,210 @@
   "placeholderImages": [
     {
       "id": "hero",
-      "description": "Porsche 911 GT3 RS on a race track",
+      "description": {
+        "ar": "بورش 911 GT3 RS على حلبة سباق",
+        "en": "Porsche 911 GT3 RS on a race track"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1693322002279-0208bc8fc4c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwcmFjZSUyMHRyYWNrfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche race track"
     },
     {
       "id": "tracks-rear",
-      "description": "Rear view of the GT3 RS",
+      "description": {
+        "ar": "منظر خلفي لسيارة GT3 RS",
+        "en": "Rear view of the GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1665892124823-58ebd88ada72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3JzY2hlJTIwcmVhciUyMHdpbmd8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche rear wing"
     },
     {
       "id": "tracks-front",
-      "description": "Front view of the GT3 RS",
+      "description": {
+        "ar": "منظر أمامي لسيارة GT3 RS",
+        "en": "Front view of the GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1685914375186-af6e88ac9141?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JzY2hlJTIwZnJvbnR8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche front"
     },
     {
       "id": "tracks-side",
-      "description": "Side profile of the GT3 RS",
+      "description": {
+        "ar": "منظر جانبي لسيارة GT3 RS",
+        "en": "Side profile of the GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1558992658-08a063bb01af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwc2lkZSUyMHByb2ZpbGV8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche side profile"
     },
     {
       "id": "tracks-interior",
-      "description": "Interior cockpit of the GT3 RS",
+      "description": {
+        "ar": "مقصورة القيادة الداخلية لسيارة GT3 RS",
+        "en": "Interior cockpit of the GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1753908732184-3f79136b3441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwY29ja3BpdHxlbnwwfHx8fDE3NjEzOTAzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche cockpit"
     },
     {
       "id": "gallery-996",
-      "description": "Porsche 996 GT3 RS",
+      "description": {
+        "ar": "بورش 996 GT3 RS",
+        "en": "Porsche 996 GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1723572209392-5b738b25e469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwOTk2fGVufDB8fHx8MTc2MTM5MDMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche 996"
     },
     {
       "id": "gallery-997",
-      "description": "Porsche 997 GT3 RS",
+      "description": {
+        "ar": "بورش 997 GT3 RS",
+        "en": "Porsche 997 GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1672717895774-3ab2eddfe538?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3JzY2hlJTIwOTk3fGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche 997"
     },
     {
       "id": "gallery-991",
-      "description": "Porsche 991 GT3 RS",
+      "description": {
+        "ar": "بورش 991 GT3 RS",
+        "en": "Porsche 991 GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1559533684-31e7059ad1cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JzY2hlJTIwOTkxfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche 991"
     },
     {
       "id": "gallery-992",
-      "description": "Porsche 992 GT3 RS",
+      "description": {
+        "ar": "بورش 992 GT3 RS",
+        "en": "Porsche 992 GT3 RS"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1732624696118-27404ef1f753?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwOTkyfGVufDB8fHx8MTc2MTM5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche 992"
     },
     {
       "id": "gallery-blue-side",
-      "description": "سيارة بورش زرقاء من الجانب",
+      "description": {
+        "ar": "سيارة بورش زرقاء من الجانب",
+        "en": "Blue Porsche side view"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1619405399517-d7fce0f13302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxibHVlJTIwcG9yc2NoZXxlbnwwfHx8fDE3NjE0ODMyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "blue porsche"
     },
     {
       "id": "gallery-yellow-front",
-      "description": "مقدمة سيارة بورش صفراء",
+      "description": {
+        "ar": "مقدمة سيارة بورش صفراء",
+        "en": "Yellow Porsche front"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1555511837-74b5742a033c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx5ZWxsb3clMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "yellow porsche"
     },
     {
       "id": "gallery-red-rear",
-      "description": "مؤخرة سيارة بورش حمراء",
+      "description": {
+        "ar": "مؤخرة سيارة بورش حمراء",
+        "en": "Red Porsche rear"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1599912028013-a5d6a44f890e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "red porsche"
     },
     {
       "id": "gallery-white-action",
-      "description": "بورش بيضاء على الطريق",
+      "description": {
+        "ar": "بورش بيضاء على الطريق",
+        "en": "White Porsche on the road"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aGl0ZSUyMHBvcnNjaGV8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "white porsche"
     },
     {
       "id": "gallery-black-detail",
-      "description": "تفاصيل سيارة بورش سوداء",
+      "description": {
+        "ar": "تفاصيل سيارة بورش سوداء",
+        "en": "Black Porsche detail"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1580273916550-4257161b2eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibGFjayUyMHBvcnNjaGV8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "black porsche"
     },
     {
       "id": "gallery-green-gt3",
-      "description": "بورش GT3 خضراء",
+      "description": {
+        "ar": "بورش GT3 خضراء",
+        "en": "Green Porsche GT3"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1616422285855-554030468318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxncmVlbiUyMHBvcnNjaGUlMjBndDN8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "green porsche gt3"
     },
     {
       "id": "gallery-silver-classic",
-      "description": "بورش كلاسيكية فضية",
+      "description": {
+        "ar": "بورش كلاسيكية فضية",
+        "en": "Classic silver Porsche"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaWx2ZXIlMjBwb3JzY2hlfGVufDB8fHx8MTc2MTQ4MzIyOHww&ixlibrb-4.1.0&q=80&w=1080",
       "imageHint": "silver porsche"
     },
     {
       "id": "gallery-rim-detail",
-      "description": "تفاصيل إطار السيارة",
+      "description": {
+        "ar": "تفاصيل إطار السيارة",
+        "en": "Car rim detail"
+      },
       "imageUrl": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwd2hlZWx8ZW58MHx8fHwxNzYxNDgzMjI4fDA&ixlibrb-4.1.0&q=80&w=1080",
       "imageHint": "porsche wheel"
     },
     {
-      "id": "video-thumbnail",
-      "description": "Thumbnail for a Porsche video",
-      "imageUrl": "https://images.unsplash.com/photo-1596125099843-4c28a6287ddb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwdmlkZW98ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlibrb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche video"
+      "id": "gallery-lizard-green",
+      "description": {
+        "ar": "GT3 RS بلون أخضر السحلية",
+        "en": "Lizard Green GT3 RS"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1568444438318-4980583158e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXphcmQlMjBncmVlbiUyMHBvcnNjaGV8ZW58MHx8fHwxNzYzNTk0NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lizard green porsche"
+    },
+    {
+      "id": "gallery-miami-blue",
+      "description": {
+        "ar": "911 أزرق ميامي",
+        "en": "Miami Blue 911"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1621287945391-a1851e3c880f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtaWFtaSUyMGJsdWUlMjBwb3JzY2hlfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "miami blue porsche"
+    },
+    {
+      "id": "gallery-lava-orange",
+      "description": {
+        "ar": "GT3 RS برتقالي لافا",
+        "en": "Lava Orange GT3 RS"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1614261180143-a20c5de35c52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsYXZhJTIwb3JhbmdlJTIwcG9yc2NoZXxlbnwwfHx8fDE3NjM1OTQ3MzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lava orange porsche"
+    },
+    {
+      "id": "gallery-chalk",
+      "description": {
+        "ar": "بورش بلون الطباشير",
+        "en": "Chalk colored Porsche"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1616016823321-9d54e4a7c093?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGFsayUyMHBvcnNjaGV8ZW58MHx8fHwxNzYzNTk0NzM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chalk porsche"
+    },
+    {
+      "id": "gallery-guards-red",
+      "description": {
+        "ar": "بورش 911 أحمر الحرس",
+        "en": "Guards Red Porsche 911"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1599912028013-a5d6a44f890e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWQlMjBwb3JzY2hlJTIwOTExfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "red porsche 911"
+    },
+    {
+      "id": "gallery-racing-yellow",
+      "description": {
+        "ar": "GT3 أصفر سباقي",
+        "en": "Racing Yellow GT3"
+      },
+      "imageUrl": "https://images.unsplash.com/photo-1600002132386-75b954c73336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyYWNpbmclMjB5ZWxsb3clMjBwb3JzY2hlfGVufDB8fHx8MTc2MzU5NDczNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "racing yellow porsche"
     }
   ]
 }
