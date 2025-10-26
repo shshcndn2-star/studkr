@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { SectionWrapper } from "../shared/section-wrapper";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
+import { CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
 import { ArrowLeft, Calendar, Hash } from "lucide-react";
 import { Button } from "../ui/button";
 import Link from "next/link";
@@ -48,11 +48,11 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
             </div>
             <div className="lg:col-span-2">
               <div className="flex flex-col h-full">
-                <CardHeader>
+                <CardHeader className="p-0 mb-4">
                   <CardTitle className="text-3xl md:text-4xl font-headline text-primary">{image.model}</CardTitle>
                   <CardDescription className="text-lg">{image.description['ar']}</CardDescription>
                 </CardHeader>
-                <CardContent className="flex-grow space-y-6">
+                <CardContent className="flex-grow space-y-6 p-0">
                     <p className="text-muted-foreground leading-relaxed">{image.detailedDescription?.ar}</p>
                     
                     <div className="grid grid-cols-2 gap-4 text-center">
@@ -65,7 +65,7 @@ export default function ImageDetailSection({ imageId }: { imageId: string }) {
                         ))}
                     </div>
 
-                    {image.specs && (
+                    {image.specs && image.specs.length > 0 && (
                          <div>
                             <h4 className="font-headline text-xl mb-3 text-foreground">مواصفات إضافية</h4>
                             <div className="flex flex-wrap gap-2">

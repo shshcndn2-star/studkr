@@ -3,11 +3,11 @@
     {
       "id": "hero",
       "description": {
-        "ar": "بورش 911 GT3 RS بيضاء على الطريق",
-        "en": "White Porsche 911 GT3 RS on the road"
+        "ar": "بورش 911 GT3 RS بيضاء على طريق جبلي",
+        "en": "White Porsche 911 GT3 RS on a mountain road"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1603569847742-e4b764b62334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JzY2hlJTIwd2hpdGUlMjByb2FkfGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche white road",
+      "imageUrl": "https://images.unsplash.com/photo-1614162698829-831e2a7ca28c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JzY2hlJTIwd2hpdGUlMjBtb3VudGFpbnxlbnwwfHx8fDE3NjE0OTQ2ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porsche white mountain",
       "generation": "992",
       "model": "911 GT3 RS",
       "year": 2023,
@@ -45,7 +45,7 @@
         "ar": "منظر خلفي لسيارة GT3 RS",
         "en": "Rear view of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1672626923251-ad5c989da0c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwcmVhciUyMHdpbmd8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1756445199263-cc260bb93895?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3JzY2hlJTIwcmVhciUyMHdpbmd8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche rear wing",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -77,7 +77,7 @@
         "ar": "منظر أمامي لسيارة GT3 RS",
         "en": "Front view of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1600274719073-047f3f0d5827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwZnJvbnR8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1622244587259-4c8e622141ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwZnJvbnR8ZW58MHx8fHwxNzYxMzkwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche front",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -141,7 +141,7 @@
         "ar": "مقصورة القيادة الداخلية لسيارة GT3 RS",
         "en": "Interior cockpit of the GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1581182560191-3f4772a2787c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwb3JzY2hlJTIwY29ja3BpdHxlbnwwfHx8fDE3NjEzOTAzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1753908732184-3f79136b3441?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwY29ja3BpdHxlbnwwfHx8fDE3NjEzOTAzMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche cockpit",
       "generation": "992",
       "model": "911 GT3 RS",
@@ -173,7 +173,7 @@
         "ar": "بورش 996 GT3 RS",
         "en": "Porsche 996 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1732113330910-8f97c23402a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JzY2hlJTIwOTk2fGVufDB8fHx8MTc2MTM5MDMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1723572209392-5b738b25e469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwOTk2fGVufDB8fHx8MTc2MTM5MDMwNHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche 996",
       "generation": "996",
       "model": "911 GT3 RS",
@@ -202,17 +202,17 @@
     {
       "id": "gallery-new-1",
       "description": {
-        "ar": "بورش 911 GT3 RS رمادية في المدينة",
-        "en": "Grey Porsche 911 GT3 RS in the city"
+        "ar": "بورش 911 GT3 RS حمراء على الحلبة",
+        "en": "Red Porsche 911 GT3 RS on the track"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1684313223650-4424bd568d3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwZ3JleSUyMGNpdHl8ZW58MHx8fHwxNzYxNDk0NDk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "porsche grey city",
+      "imageUrl": "https://images.unsplash.com/photo-1621261452147-a443cecb537e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JzY2hlJTIwcmVkJTIwdHJhY2t8ZW58MHx8fHwxNzYxNDk0NjgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "porsche red track",
       "generation": "991.2",
       "model": "911 GT3 RS",
       "year": 2019,
       "detailedDescription": {
-        "ar": "سيارة 991.2 GT3 RS بلون الطباشير الأنيق، تظهر السيارة حضورها القوي حتى في البيئة الحضرية، مما يثبت أنها تحفة فنية على الطريق كما هي على الحلبة.",
-        "en": "The 991.2 GT3 RS in the elegant Chalk color, showcasing its powerful presence even in an urban environment, proving it's as much a road masterpiece as a track weapon."
+        "ar": "سيارة 991.2 GT3 RS بلون 'أحمر الحرس' الكلاسيكي، تظهر في بيئتها الطبيعية على حلبة السباق، جاهزة لوضع أوقات سريعة. يشتهر هذا الجيل بقوته البالغة 520 حصانًا.",
+        "en": "A classic 'Guards Red' 991.2 GT3 RS, shown in its natural habitat on the racetrack, ready to set fast lap times. This generation is known for its 520 horsepower."
       },
       "specs": [
         {
@@ -220,7 +220,7 @@
             "ar": "اللون",
             "en": "Color"
           },
-          "value": "Chalk"
+          "value": "Guards Red"
         },
         {
           "label": {
@@ -237,7 +237,7 @@
         "ar": "بورش 911 GT3 RS بنفسجية",
         "en": "Purple Porsche 911 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1612654680276-bbd3e1200853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwcHVycGxlfGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1728933118556-cc68e1419381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3JzY2hlJTIwcHVycGxlfGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche purple",
       "generation": "991.1",
       "model": "911 GT3 RS",
@@ -269,7 +269,7 @@
         "ar": "بورش 911 GT3 RS زرقاء أمام منظر جبلي",
         "en": "Blue Porsche 911 GT3 RS in front of a mountain view"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1633767859554-3bdc8c544cdd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwYmx1ZSUyMG1vdW50YWlufGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1673977976704-d0acbcc784fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwYmx1ZSUyMG1vdW50YWlufGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche blue mountain",
       "generation": "991.1",
       "model": "911 GT3 RS",
@@ -301,7 +301,7 @@
         "ar": "تفاصيل جناح بورش 911 GT3 RS",
         "en": "Porsche 911 GT3 RS wing detail"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1725289339855-126f69da56a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwb3JzY2hlJTIwd2luZ3xlbnwwfHx8fDE3NjE0OTQ0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1694970523326-31cdeb41bc33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwb3JzY2hlJTIwd2luZ3xlbnwwfHx8fDE3NjE0OTQ0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche wing",
       "generation": "991.2",
       "model": "911 GT3 RS",
@@ -333,7 +333,7 @@
         "ar": "بورش 911 GT3 RS حمراء على حلبة السباق",
         "en": "Red Porsche 911 GT3 RS on a racetrack"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1562423808-29ef2c9b5388?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3JzY2hlJTIwcmVkJTIwcmFjZXRyYWNrfGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1678731804577-35274744ee3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwb3JzY2hlJTIwcmVkJTIwcmFjZXRyYWNrfGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche red racetrack",
       "generation": "991.2",
       "model": "911 GT3 RS",
@@ -365,7 +365,7 @@
         "ar": "بورش 911 GT3 RS بيضاء في مرآب",
         "en": "White Porsche 911 GT3 RS in a garage"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1642948819771-e9c8ae0b42e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3JzY2hlJTIwd2hpdGUlMjBnYXJhZ2V8ZW58MHx8fHwxNzYxNDk0NDk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1653580170826-eaf7c9aaf350?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3JzY2hlJTIwd2hpdGUlMjBnYXJhZ2V8ZW58MHx8fHwxNzYxNDk0NDk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche white garage",
       "generation": "997.2",
       "model": "911 GT3 RS",
@@ -429,7 +429,7 @@
         "ar": "بورش 911 GT3 RS صفراء",
         "en": "Yellow Porsche 911 GT3 RS"
       },
-      "imageUrl": "https://images.unsplash.com/photo-1584945810370-9d887daa7a80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwb3JzY2hlJTIweWVsbG93fGVufDB8fHx8MTc2MTQ5NDQ5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1696581081894-6c0561d88743?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9yc2NoZSUyMHllbGxvd3xlbnwwfHx8fDE3NjE0OTQ0OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "porsche yellow",
       "generation": "991.2",
       "model": "911 GT3 RS",
